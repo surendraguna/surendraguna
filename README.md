@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-<img align="right" alt="Coding" width="400" src="https://github.com/surendra-boya/surendra-boya/blob/Master/Nothing.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/surendraguna/surendraguna/blob/Master/Nothing.gif">
 
 - 👀 I’m interested in Problem-Sloving
 
