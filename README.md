@@ -1,14 +1,10 @@
 <h1 align="center">Hi, 👋 I'm Surendra 🚀</h1>
 
-# 💫 About Me:
+
 
 <img align="right" alt="Coding" width="400" src="https://github.com/surendraguna/surendraguna/blob/Master/Nothing.gif">
 
-- 👀 I’m interested in Problem-Sloving
 
-- 🌱 I’m currently learning DSA
-
-- 📫 How to reach me surendraguna2812@gmail.com
 
 
 ## 🌐 Socials:
